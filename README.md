@@ -6,7 +6,7 @@ React app which displays the movie details.
 
 Web API to fetch movie details
 
-Implementation of grid to diplay the movie details
+Implementation of grid to display the movie details
 
 Pagination. Back and forth provision.
 
